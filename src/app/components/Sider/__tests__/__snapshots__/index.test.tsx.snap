@@ -1,0 +1,362 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Sider  /> should match snapshot 1`] = `
+.c0 {
+  height: 100vh;
+  overflow: auto;
+  position: fixed;
+  left: 0;
+  background: #f7f7f7;
+  z-index: 99999;
+}
+
+.c2 {
+  width: 27.45px;
+  height: 27.45px;
+  margin-right: 9px;
+}
+
+.c1 {
+  height: 40px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 32px 36px;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.c3 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.c4.c4 {
+  background-color: transparent;
+  border-right: none;
+  padding: 0;
+}
+
+.c4.c4 .ant-menu-item > .ant-menu-item-selected {
+  width: 0;
+}
+
+.c4.c4 .ant-menu-item .ant-menu-submenu-title {
+  width: 0;
+}
+
+.c4.c4 .ant-menu-item .anticon {
+  -webkit-transition: none;
+  transition: none;
+}
+
+.c5.c5.c5 {
+  height: 52px;
+  padding-left: 20px !important;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 10px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 16px;
+}
+
+.c7.c7.c7 {
+  height: 52px;
+  padding-left: 20px !important;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 10px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 16px;
+  background: #503e9d;
+  border-radius: 12px;
+  color: #F7FAFC;
+}
+
+.c6 {
+  line-height: unset;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  bottom: 30px;
+  left: 30px;
+  position: absolute;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 180px;
+}
+
+.c14 {
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0;
+  margin-top: 5px;
+  margin-left: 10px;
+  color: #182135;
+}
+
+.c15 {
+  font-size: 11px;
+  line-height: 16px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0;
+  margin-top: 5px;
+  margin-left: 10px;
+  color: #626264;
+}
+
+.c11 {
+  background-position: -35px -180px;
+}
+
+.c9 {
+  text-align: left;
+  width: 150px;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.c10 {
+  text-align: center;
+  height: 24px;
+  width: 24px;
+  background: #503e9d;
+  color: #f7fafc;
+  border-radius: 10px;
+}
+
+<aside
+  class="ant-layout-sider ant-layout-sider-dark c0"
+  style="flex: 0 0 300px; max-width: 300px; min-width: 300px; width: 300px;"
+>
+  <div
+    class="ant-layout-sider-children"
+  >
+    <div
+      class="c1"
+    >
+      <img
+        class="c2"
+        src="logo.svg"
+      />
+      <p
+        class="c3"
+      >
+        Nibble
+      </p>
+    </div>
+    <ul
+      class="ant-menu ant-menu-light c4 ant-menu-root ant-menu-inline"
+      data-testid="sider-menu"
+      role="menu"
+    >
+      <li
+        class="ant-menu-item c5"
+        role="menuitem"
+        style="padding-left: 24px;"
+        title="Home"
+      >
+        <img
+          class="c6 ant-menu-item-icon"
+          height="24"
+          src="home.svg"
+          width="24"
+        />
+        <span>
+          Home
+        </span>
+      </li>
+      <li
+        class="ant-menu-item c5"
+        role="menuitem"
+        style="padding-left: 24px;"
+        title="Explore"
+      >
+        <img
+          class="c6 ant-menu-item-icon"
+          height="24"
+          src="explore.svg"
+          width="24"
+        />
+        <span>
+          Explore
+        </span>
+      </li>
+      <li
+        class="ant-menu-item c7"
+        role="menuitem"
+        style="padding-left: 24px;"
+        title="Favorites"
+      >
+        <img
+          class="c6 ant-menu-item-icon"
+          height="24"
+          src="fav.svg"
+          width="24"
+        />
+        <span>
+          Favorites
+        </span>
+      </li>
+      <li
+        class="ant-menu-item c5"
+        role="menuitem"
+        style="padding-left: 24px;"
+        title="Orders"
+      >
+        <img
+          class="c6 ant-menu-item-icon"
+          height="24"
+          src="orders.svg"
+          width="24"
+        />
+        <span>
+          Orders
+        </span>
+      </li>
+      <li
+        class="ant-menu-item c5"
+        role="menuitem"
+        style="padding-left: 24px;"
+        title="Messages"
+      >
+        <img
+          class="c6 ant-menu-item-icon"
+          height="24"
+          src="messages.svg"
+          width="24"
+        />
+        <span>
+          <div
+            class="c8"
+          >
+            <p
+              class="c9"
+            >
+              Messages
+            </p>
+            <p
+              class="c10"
+            >
+              2
+            </p>
+          </div>
+        </span>
+      </li>
+      <li
+        class="ant-menu-item c5"
+        role="menuitem"
+        style="padding-left: 24px;"
+        title="Settings"
+      >
+        <img
+          class="c6 ant-menu-item-icon"
+          height="24"
+          src="settings.svg"
+          width="24"
+        />
+        <span>
+          Settings
+        </span>
+      </li>
+    </ul>
+    <img
+      alt="promotion"
+      class="c11"
+      height="300"
+      src="promotion.svg"
+      width="300"
+    />
+    <div
+      class="c12"
+    >
+      <img
+        class=""
+        height="48"
+        src="mark.svg"
+        width="48"
+      />
+      <div
+        class="c13"
+      >
+        <p
+          class="c14"
+        >
+          Mark Clarke
+        </p>
+        <p
+          class="c15"
+        >
+          markclarke@gmail.com
+        </p>
+      </div>
+      <img
+        class=""
+        height="24"
+        src="arrows.svg"
+        width="10"
+      />
+    </div>
+  </div>
+</aside>
+`;

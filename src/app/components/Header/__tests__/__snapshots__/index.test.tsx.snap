@@ -1,0 +1,343 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header  /> should match snapshot 1`] = `
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 300px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.c14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  background: #f7f7f7;
+  border-radius: 8px;
+  height: 40px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 12px;
+}
+
+.c15 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  color: #626264;
+  margin: 0;
+}
+
+.c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  background: #503e9d;
+  border-radius: 8px;
+  height: 40px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 12px;
+  margin-left: 16px;
+}
+
+.c17 {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  color: #f7fafc;
+  margin: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: calc(100% - 300px);
+  float: right;
+  padding: 5px 30px;
+  margin-top: 40px;
+}
+
+.c4 {
+  margin-right: 10px;
+}
+
+.c12 {
+  margin-right: 10px;
+  margin-top: -10px;
+}
+
+.c6 {
+  float: right;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 225px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 115px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-left: 30px;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 130px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-left: 30px;
+}
+
+.c5 {
+  width: 160px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0;
+}
+
+.c8 {
+  margin: 0;
+  width: 60px;
+}
+
+.c10 {
+  margin: 0;
+  width: 80px;
+}
+
+.c11 {
+  padding-left: 15px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 16px;
+  margin-top: -10px;
+  background: #f7f7f7;
+  border-radius: 10px;
+  width: 380px;
+  height: 48px;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c11 .ant-input {
+  border: 0;
+  width: 100%;
+  background: #f7f7f7;
+}
+
+<header
+  class="ant-layout-header c0"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <div
+        class="c3"
+      >
+        <img
+          class="c4"
+          height="24"
+          src="location.svg"
+          width="24"
+        />
+        <p
+          class="c5"
+        >
+          Italy, California
+        </p>
+        <img
+          class="c6"
+          height="24"
+          src="arrows.svg"
+          width="10"
+        />
+      </div>
+      <div
+        class="c7"
+      >
+        <img
+          class="c4"
+          height="24"
+          src="bag.svg"
+          width="24"
+        />
+        <p
+          class="c8"
+        >
+          Pick up
+        </p>
+        <img
+          class="c6"
+          height="24"
+          src="arrows.svg"
+          width="10"
+        />
+      </div>
+      <div
+        class="c9"
+      >
+        <img
+          class="c4"
+          height="24"
+          src="coupon.svg"
+          width="24"
+        />
+        <p
+          class="c10"
+        >
+          Best deals
+        </p>
+        <img
+          class="c6"
+          height="24"
+          src="arrows.svg"
+          width="10"
+        />
+      </div>
+    </div>
+    <span
+      class="ant-input-affix-wrapper c11"
+    >
+      <span
+        class="ant-input-prefix"
+      >
+        <img
+          class="c4"
+          height="20"
+          src="search.svg"
+          width="20"
+        />
+      </span>
+      <input
+        class="ant-input"
+        placeholder="Search for anything..."
+        type="text"
+        value=""
+      />
+    </span>
+    <img
+      class="c12"
+      height="48"
+      src="thumb.svg"
+      width="48"
+    />
+    <img
+      class="c12"
+      height="48"
+      src="cart.svg"
+      width="48"
+    />
+  </div>
+  <div
+    class="c13"
+  >
+    <div
+      class="c14"
+    >
+      <img
+        class="c4"
+        height="16"
+        src="restaurant.svg"
+        width="16"
+      />
+      <p
+        class="c15"
+      >
+        Restaurant (8)
+      </p>
+    </div>
+    <div
+      class="c16"
+    >
+      <img
+        class="c4"
+        height="16"
+        src="silverware.svg"
+        width="16"
+      />
+      <p
+        class="c17"
+      >
+        Dishes (23)
+      </p>
+    </div>
+  </div>
+</header>
+`;
