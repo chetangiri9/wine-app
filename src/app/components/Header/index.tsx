@@ -118,10 +118,11 @@ const DishesText = styled.p`
 const StyledHeader = styled(H)`
   display: flex;
   flex-direction: column;
-  width: calc(100% - 300px);
-  float: right;
-  padding: 5px 30px;
-  margin-top: 40px;
+  position: fixed;
+  right: 0;
+  z-index: 1000;
+  background: white;
+  padding: 40px 30px 0px 30px;
 `;
 
 const StyledIcon = styled.img`

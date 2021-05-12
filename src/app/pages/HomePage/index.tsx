@@ -23,6 +23,7 @@ const StyledContent = styled(Content)`
   grid-gap: 50px 100px;
   grid-template-columns: auto auto auto;
   padding: 10px 30px;
+  margin-top: 180px;
   width: calc(100% - 300px);
   float: right;
 `;
